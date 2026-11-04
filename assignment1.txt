@@ -1,0 +1,16 @@
+DCIT 323 - Assignment 1
+Student: Benjamin Obeng Akyea
+
+Topic: Git and GitHub Basics
+
+This file is a starter for demonstrating Git operations.
+
+Practical tasks:
+1. Create a GitHub repository.
+2. Clone it to a local machine.
+3. Edit or add a file in the cloned repository.
+4. Stage changes with git add.
+5. Commit changes with git commit.
+6. Push changes to GitHub with git push.
+
+After cloning, add a line describing what you learned, then commit and push that edit from your own computer.
