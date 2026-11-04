@@ -14,3 +14,4 @@ Practical tasks:
 6. Push changes to GitHub with git push.
 
 After cloning, add a line describing what you learned, then commit and push that edit from your own computer.
+I successfully edited my GitHub repository using VS Code.
